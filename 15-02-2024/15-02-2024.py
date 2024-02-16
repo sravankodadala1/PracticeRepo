@@ -1,3 +1,7 @@
+
+
+
+
 # swap first and last elements in a list
 Input = [12, 35, 9, 56, 24]
 a = len(Input) - 1
@@ -118,3 +122,4 @@ for i in range(len(list)):
     list.insert(a,"c")
     a=a+2
 print(list)
+
